@@ -45,14 +45,18 @@ Second part (for the deaf):
   5. We have 5 models, a model for the Arabic alphabet with an accuracy of 98.30 of train data and 94.99 of test data, a model for Arabic words with an accuracy of 99.37 of       train data and 95.96 of test data, a model for Arabic numbers with accuracy 99.13 of train data and 93.75 of test data, a model for English alphabet with accuracy 99.82      of train data and 98.28 of test data, a model for English words with accuracy 98.30 of train data and 93.94 of test data
      ![image](https://github.com/AliSobih/sign-language-to-speech/assets/43109825/8a89f36e-9cf3-4048-b448-f6e56454f824)
 
-
+## Accuracy Table
+  |model |train accuracy | test accuracy |
+  |------|------------|----------|
+  |Arabic alphabet|98.30|94.99|
+  |Arabic words|99.37|95.96|
+  |Arabic numbers|99.13|93.75|
+  |English alphabet|99.82|98.28|
+  |English words|98.30|93.94|
 ## Used Libraries:
   - Open CV
   - Mediapipe
   - Tensorflow
-
-
-
 
 # Team members
   1. Ali Fathy Abbas Mohamed
@@ -61,7 +65,3 @@ Second part (for the deaf):
   4. Abeer Khaled Mohamed Hemdan
   5. Hady Mohamed Kamel Shams El-Din
 
-### Data are points collected by a Miedialpipe library
-
-categorical_accuracy: 0.9762 for testing data
-categorical_accuracy: 0.9841 fot training  data
