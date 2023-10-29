@@ -59,7 +59,7 @@ Second part (for the deaf):
   - Tensorflow
 
 # Team members
-  1. Ali Fathy Abbas Mohamed
+  1. Ali Fathy Abbas Mohamed (alifathyabbas@gmail.com)
   2. Esraa Abd-elhamed Abd-elbaky Mohamed
   3. Basma Tamer Omar Abd-elrahman
   4. Abeer Khaled Mohamed Hemdan
